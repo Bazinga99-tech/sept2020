@@ -1,4 +1,5 @@
 // write your own function to decide smaller or greater
+//this is added
 import java.util.*;
 public class genrate
 {
